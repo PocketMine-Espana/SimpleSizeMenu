@@ -1,0 +1,19 @@
+name: SimpleSize
+
+main: SimpleSize\Main 
+
+api: 4.0.0
+
+version: 1.0.0
+
+author: SexxRetacted
+
+commands:
+  size:
+    description: "Open Size Menu"
+    permission: size.cmd
+
+permissions: 
+  size.cmd:
+    description: "s p"
+    default: op
